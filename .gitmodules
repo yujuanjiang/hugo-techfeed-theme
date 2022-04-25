@@ -1,0 +1,4 @@
+[submodule "yujuanjiangblog/public"]
+	path = yujuanjiangblog/public
+	url = https://github.com/yujuanjiang/yujuanjiang.github.io.git
+	branch = main
