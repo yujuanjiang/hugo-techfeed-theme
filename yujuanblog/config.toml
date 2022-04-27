@@ -1,0 +1,5 @@
+baseURL = 'https://yujuanjiang.github.io/'
+languageCode = 'en-us'
+title = 'Yujuan personal blog'
+
+theme = "techfeed-hugo"

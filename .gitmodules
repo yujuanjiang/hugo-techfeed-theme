@@ -2,3 +2,7 @@
 	path = yujuanjiangblog/public
 	url = https://github.com/yujuanjiang/yujuanjiang.github.io.git
 	branch = main
+[submodule "yujuanblog/public"]
+	path = yujuanblog/public
+	url = https://github.com/yujuanjiang/yujuanjiang.github.io.git
+	branch = main
