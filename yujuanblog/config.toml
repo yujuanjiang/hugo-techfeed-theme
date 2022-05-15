@@ -3,3 +3,16 @@ languageCode = 'en-us'
 title = 'Yujuan personal blog'
 
 theme = "techfeed-hugo"
+
+
+[params.variables]
+color_primary = "green"
+color_secondary = "#001111"
+body_color = "#fff"
+text_color = "#666666"
+text_dark = "#222222"
+text_light = "#959595"
+border_color = "#ACB9C4"
+black = "#000"
+white = "#fff"
+light = "#fdfdfd"

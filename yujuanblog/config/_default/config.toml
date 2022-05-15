@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://yujuanjiang.github.io/"
-title = "Techfeed"
+title = "Yujuan's personal website"
 theme = "techfeed-hugo"
 # post pagination
 paginate = "2"

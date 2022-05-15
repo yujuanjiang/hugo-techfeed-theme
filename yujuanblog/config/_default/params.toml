@@ -1,30 +1,30 @@
 #################### default parameters ################################
 # favicon
-favicon = "assets/images/favicon.png"
+favicon = "images/favicon.png"
 # logo
-logo = "assets/images/logo.png"
+logo = "images/logo.png"
 # use `x` with logo_width, example: "100x"
-logo_width = "150px"
+logo_width = "180px"
 # logo text will only show when logo is missing.
-logo_text = "TechFeed"
+logo_text = ""
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Gethugothemes"
-image = "assets/images/logo.png" # this image will be used as fallback if a page has no image of its own
+image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # main sections
 mainSections = ["blog"]
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright text
-copyright = "Designed & Developed by [GetHugoThemes](https://gethugothemes.com)"
+# copyright = "Designed & Developed by [GetHugoThemes](https://gethugothemes.com)"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
-custom_script= "" 
+#custom_script= "" 
 
 # author
 [author_block]
 title= "WELCOME TO MY BLOG"
-image= "assets/images/author.jpg"
-content= "My name is Yujuan. I am a software engineer, I like to travel and I love to photograph beautiful nature places and happy peoples."
+image= "images/author.jpg"
+content= "My name is Yujuan. I am a writer, I like to travel and I love to photograph beautiful nature places and happy peoples."
 
 # Preloader
 [preloader]
@@ -39,18 +39,22 @@ content = "This site uses cookies. By continuing to use this website, you agree 
 button = "I Accept"
 
 ############################# social site ########################
-[[social]]
-icon = "fab fa-facebook-f"
-link = "#"
+#[[social]]
+#icon = "fab fa-facebook-f"
+#link = "#"
+
+#[[social]]
+#icon = "fab fa-twitter"
+#link = "#"
 
 [[social]]
-icon = "fab fa-twitter"
-link = "#"
+icon = "fab fa-linkedin"
+link = "https://www.linkedin.com/in/yujuanjiang/"
 
 [[social]]
 icon = "fab fa-instagram"
-link = "#"
+link = "https://www.instagram.com/ceciliadiary/?hl=en"
 
-[[social]]
-icon = "fab fa-dribbble"
-link = "#"
+#[[social]]
+#icon = "fab fa-dribbble"
+#link = "#"
