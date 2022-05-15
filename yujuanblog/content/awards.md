@@ -1,6 +1,7 @@
 ---
-title: "Awards"
+title: "AWARDS"
 date: 2022-05-14T21:40:08-04:00
+layout: "awards"
 draft: false
 ---
 

@@ -5905,7 +5905,7 @@ header {
     left: 0; }
 
 .author-block {
-  padding: 120px 0;
+  padding: 20px 0;
   color: #333333; }
 
 .post-card i.fas.fa-arrow-right {
