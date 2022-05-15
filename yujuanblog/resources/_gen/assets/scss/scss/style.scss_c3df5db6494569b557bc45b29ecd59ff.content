@@ -5533,7 +5533,7 @@ p {
  # default styles
 -------------------------------------------------------------------*/
 .section {
-  padding: 100px 0; }
+  padding: 10px 0; }
 
 .social-links a {
   padding: 7px 0;
