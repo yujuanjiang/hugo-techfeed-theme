@@ -17,15 +17,14 @@ mainSections = ["blog"]
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright text
 # copyright = "Designed & Developed by [GetHugoThemes](https://gethugothemes.com)"
-# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
-#custom_script= "" 
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
+#custom_script= ""
 
 # author
 [author_block]
 title= "WELCOME TO MY BLOG"
 image= "images/author.jpg"
-content= "My name is Yujuan. I am a writer, I like to travel and I love to photograph beautiful nature places and happy peoples."
-
+content= "\"My name is Yujuan. I am a software engineer, specialized on digital marketing technology. I like to travel and I love to share my experiences with peoples around.\""
 # Preloader
 [preloader]
 enable = false

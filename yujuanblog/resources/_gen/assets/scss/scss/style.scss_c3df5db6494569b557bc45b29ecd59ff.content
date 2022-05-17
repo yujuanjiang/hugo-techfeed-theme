@@ -5687,6 +5687,9 @@ a.post-title:hover,
 .content h3 {
   margin-top: 40px; }
 
+.content h2 {
+  padding: 180px; }
+
 .content ol,
 .content ul {
   margin-bottom: 25px;
