@@ -5,11 +5,10 @@ layout: "awards"
 draft: false
 ---
 
-2015
-
-SANER 2015 Google/SAP Award
-MSR 2015 Best Presentation Award
-Before 2012
-
-People’s First Scholarship, Harbin Institute of Technology
-Merit Student, Harbin Institute of Technology
+<ul>
+<li>SANER 2015 Google/SAP Award</li>
+<li>MSR 2015 Best Presentation Award</li>
+<li>People’s First Scholarship, Harbin Institute of Technology</li>
+<li>Merit Student, Harbin Institute of Technology</li>
+<li>And a bunch of stuff at school... or like last life.</li>
+</ul>

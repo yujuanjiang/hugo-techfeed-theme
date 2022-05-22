@@ -5681,7 +5681,7 @@ a.post-title:hover,
 .content h3,
 .content h4 {
   color: #333333;
-  margin-bottom: 15px;
+  margin-bottom: 30px;
   font-weight: 600; }
 
 .content h3 {

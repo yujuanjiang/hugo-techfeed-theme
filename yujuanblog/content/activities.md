@@ -5,20 +5,34 @@ layout: "activities"
 draft: false
 ---
 
-Conference PC Member:
+<strong>Conference PC Member:</strong>
 
-MSR 2016 Challenge Track
-Paper Co-review:
+<ul>
+<ul>
+  <li>MSR 2016 Challenge Track</li>
+</ul>
+</ul>
 
-CSER, November 2013
-CASCON conference, November 2013
-MSR conference, May 2013
-RELENG workshop, May 2013
-CSER, June 2013
-CSER, November 2012
-CASCON conference, November 2012
-WCRE conference, October 2012
-Volunteer Work:
+<strong>Paper Co-review</strong>:
 
-Student volunteer at conference CSER 2013 spring (Concordia University)
-Student volunteer at conference SANER 2015 (Polytechnique Montreal)
+<ul>
+<ul>
+<li>CSER, November 2013</li>
+<li>CASCON conference, November 2013</li>
+<li>MSR conference, May 2013</li>
+<li>RELENG workshop, May 2013</li>
+<li>CSER, June 2013</li>
+<li>CSER, November 2012</li>
+<li>CASCON conference, November 2012</li>
+<li>WCRE conference, October 2012</li>
+</ul>
+</ul>
+
+<strong>Volunteer Work</strong>:
+
+<ul>
+<ul>
+<li>Student volunteer at conference CSER 2013 spring (Concordia University)</li>
+<li>Student volunteer at conference SANER 2015 (Polytechnique Montreal)</li>
+</ul>
+</ul>
