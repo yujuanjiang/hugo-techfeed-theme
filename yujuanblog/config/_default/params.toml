@@ -15,6 +15,15 @@ image = "images/logo.png" # this image will be used as fallback if a page has no
 mainSections = ["blog"]
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
+
+#BELOW is customization
+formID="1FAIpQLSctaRjzEzAuTugQiCvUlFhjrKxaInTFlE39hBciqIam50Cx0w"
+name="entry.2005620554"
+email="entry.1045781291"
+subject="entry.1166974658"
+message="entry.839337160"
+#ABOVE is customization
+
 # copyright text
 # copyright = "Designed & Developed by [GetHugoThemes](https://gethugothemes.com)"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
