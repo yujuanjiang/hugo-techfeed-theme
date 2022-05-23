@@ -41,8 +41,8 @@ hasChildren = true
   # dropdown item
   [[main]]
   parent = "Blogs"
-  name = "page 1"
-  url = "/"
+  name = "Front-End"
+  url = "/blog/how_to_create_hugo_contact_form_with_google_forms"
 
   [[main]]
   parent = "Blogs"
